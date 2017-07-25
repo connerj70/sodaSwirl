@@ -1,0 +1,222 @@
+.row {
+	margin-top:2%;
+	padding:1%
+}
+a img {
+	width:8em;
+	height:8em;
+	clear;
+
+}
+
+body {
+	/*background-color:#6E3667;*/
+	color:white;
+	font-family: Fredoka One;
+	font-weight:200;
+	background: #DCE35B;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #45B649, #DCE35B);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #45B649, #DCE35B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+.container {
+	
+	background: #DCE35B;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #45B649, #DCE35B);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #45B649, #DCE35B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+	height:100%;
+	border-radius:10px;
+	width:80%;
+	margin: 55px auto;
+}
+
+.navbar {
+	margin-top:0%;
+	background-color:#fda3ff;
+	color:white;
+	margin-bottom:0;
+}
+
+.nav.navbar-nav.navbar-right li a {
+	color:white !important;
+	font-family: Fredoka One;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color:white;
+	font-family: Fredoka One;
+	
+}
+
+.navbar-default .navbar-brand {
+	color:white;
+	font-family:  Fredoka One;
+	margin:0;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+	background-color:#fda3ff;
+	color:white;
+	font-family:  Fredoka One;
+}
+
+.recipe_title {
+	color:white;
+}
+
+h2 {
+	font-weight:200;
+	text-shadow:2px 2px grey;
+	
+}
+
+ul a {
+	color:white;
+	margin-top: 1.5%;
+
+}
+
+#beverage1 {
+	margin:10px;
+	margin-top:10%;
+	text-shadow: 2px 2px grey;
+	font-size:1.5em;
+}
+
+/*#intro {
+	background-color:white;
+	height:45px;
+	color: #88D317;
+	margin:0;
+}*/
+
+#introText {
+	margin: 0 auto;
+	width: 0 auto;
+	
+}
+
+h1 {
+	text-shadow:2px 2px gray;
+	font-size:3em;
+	margin: 10px auto;
+	border-radius:50px;
+	
+}
+
+.brand2 {
+	background-color:transparent;
+	margin: 2px 5px 2px 5px;
+	padding: 0px 5px 15px 5px;
+	border-radius: 40px;
+	max-width:30%;
+}
+
+#intro {
+	width:500px;
+	text-align:center;
+	margin: 0 auto;
+
+}
+
+#swirl {
+	width: 75px;
+	height: 75px;
+	min-height:1px;
+	min-width:1px;
+	background: #fda3ff;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50%;
+	margin:10px auto;
+	padding:10px;
+	
+}
+
+#swirl1 {
+	width:50px;
+	height:50px;
+	min-height:1px;
+	min-width:1px;
+	background:#45B649;
+	border-radius: 50%;
+	margin: auto;
+	padding:12px;
+
+}
+
+#swirl2 {
+	width:25px;
+	height:25px;
+	min-height:1px;
+	min-width:1px;
+	background:#fda3ff;
+	border-radius: 50%;
+	margin: auto;
+}
+
+.measure_highlight {
+	color:#fda3ff;
+}
+
+.legend {
+	height:20px;
+	width:20px;
+	min-width:10px;
+	min-height:10px;
+	display:block;
+	margin: 5px 5px 5px 5px;
+}
+
+table {
+	float:right;
+	padding:5px;
+	margin:6% 20% 5% 0;
+	border-spacing: 10px;
+}
+
+#cup_size {
+	font-size:20px;
+}
+
+#cup_size1 {
+	border-bottom:1px solid white;
+}
+
+#small {
+	color:red;
+}
+
+#medium {
+	color:blue;
+}
+
+#large {
+	color:purple;
+}
+
+#table2 {
+	margin:right:30%;
+	float:left;
+}
+
+#robot {
+	height:50px;
+	width: 50px;
+}
+
+#robot_button {
+	background-color: #fda3ff;
+	margin:15px 15px 15px 15px;
+}
+
+#ouch {
+	border: 1px solid grey;
+	border-radius: 45%;
+	padding: 5px 5px 5px 5px;
+	display:none;
+}
+
